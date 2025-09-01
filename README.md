@@ -8,5 +8,5 @@ I prefer to work in R, but do at times also work in Stata.
 
 Feel free to contact me by [email](naomi.launders.19@ucl.ac.uk, "naomi.launders@ucl.ac.uk"), or you can find me here:
 
-  [UCL page]((https://profiles.ucl.ac.uk/74515-naomi-launders), "UCL")  
+  [UCL page](https://profiles.ucl.ac.uk/74515-naomi-launders), "UCL")  
   [ORCiD](https://orcid.org/0000-0003-4241-938X, "ORCiD")  
