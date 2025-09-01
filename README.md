@@ -6,10 +6,7 @@ I am interested in the use of causal inference to better quantify outcomes, but 
 
 I prefer to work in R, but do at times also work in Stata. 
 
-This repository is currently under development. I aim to document key components of my code and code lists. 
+Feel free to contact me by [email](naomi.launders.19@ucl.ac.uk, "naomi.launders@ucl.ac.uk"), or you can find me here:
 
-Feel free to contact me by [email](naomi.launders.19@ucl.ac.uk, "naomi.launders.19@ucl.ac.uk"), or you can find me here:
-
-  [Twitter](https://twitter.com/naomilaunders, "Twitter")  
-  [UCL page](https://iris.ucl.ac.uk/iris/browse/profile?upi=NJLAU54, "UCL")  
+  [UCL page]((https://profiles.ucl.ac.uk/74515-naomi-launders), "UCL")  
   [ORCiD](https://orcid.org/0000-0003-4241-938X, "ORCiD")  
